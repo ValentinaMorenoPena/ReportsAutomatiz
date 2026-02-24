@@ -4,6 +4,7 @@ Sistema modular en Python para procesamiento y generación automática de report
 ✅ Contabilidad INT05
 ✅ Tesorería INT05
 ✅ Valorización INT06
+✅ Instrumentos
 Cada ejecución genera archivos Excel estructurados con hojas estandarizadas y nombre versionado por fecha y hora.
 
 🏗 Arquitectura del Proyecto
